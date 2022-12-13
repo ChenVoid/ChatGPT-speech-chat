@@ -1,0 +1,3 @@
+CTC (Connectionist Temporal Classification) is a machine learning algorithm used for sequence recognition, such as speech recognition and machine translation. CTC is a neural network-based algorithm that uses a recurrent neural network (RNN) to learn the sequence of hidden states.
+
+RNNs are a type of neural network that are well-suited for learning sequences of data. They are similar to other neural networks, but they have a special property called "backpropagation through time" (BPTT), which allows them to learn and remember sequences of inputs.
